@@ -1,0 +1,76 @@
+INFO:pyftpdlib:>>> starting FTP server on 0.0.0.0:21, pid=8738 <<<
+INFO:pyftpdlib:concurrency model: async
+INFO:pyftpdlib:masquerade (NAT) address: 
+INFO:pyftpdlib:passive ports: 2000->2332
+INFO:pyftpdlib:received interrupt signal
+INFO:pyftpdlib:>>> shutting down FTP server (1 active socket fds) <<<
+INFO:pyftpdlib:>>> starting FTP server on 0.0.0.0:21, pid=8820 <<<
+INFO:pyftpdlib:concurrency model: async
+INFO:pyftpdlib:masquerade (NAT) address: 
+INFO:pyftpdlib:passive ports: 2000->2332
+INFO:pyftpdlib:received interrupt signal
+INFO:pyftpdlib:>>> shutting down FTP server (1 active socket fds) <<<
+INFO:pyftpdlib:>>> starting FTP server on 0.0.0.0:21, pid=8827 <<<
+INFO:pyftpdlib:concurrency model: async
+INFO:pyftpdlib:masquerade (NAT) address: 
+INFO:pyftpdlib:passive ports: 2000->2332
+INFO:pyftpdlib:received interrupt signal
+INFO:pyftpdlib:>>> shutting down FTP server (1 active socket fds) <<<
+INFO:pyftpdlib:>>> starting FTP server on 0.0.0.0:21, pid=8969 <<<
+INFO:pyftpdlib:concurrency model: async
+INFO:pyftpdlib:masquerade (NAT) address: 
+INFO:pyftpdlib:passive ports: 2000->2332
+INFO:pyftpdlib:received interrupt signal
+INFO:pyftpdlib:>>> shutting down FTP server (1 active socket fds) <<<
+INFO:pyftpdlib:>>> starting FTP server on 0.0.0.0:21, pid=9153 <<<
+INFO:pyftpdlib:concurrency model: async
+INFO:pyftpdlib:masquerade (NAT) address: 123.206.121.176
+INFO:pyftpdlib:passive ports: 2000->2332
+INFO:pyftpdlib:received interrupt signal
+INFO:pyftpdlib:>>> shutting down FTP server (1 active socket fds) <<<
+INFO:pyftpdlib:>>> starting FTP server on 0.0.0.0:21, pid=9471 <<<
+INFO:pyftpdlib:concurrency model: async
+INFO:pyftpdlib:masquerade (NAT) address: 123.206.121.176
+INFO:pyftpdlib:passive ports: 2000->2332
+INFO:pyftpdlib:received interrupt signal
+INFO:pyftpdlib:>>> shutting down FTP server (1 active socket fds) <<<
+INFO:pyftpdlib:>>> starting FTP server on 0.0.0.0:21, pid=9475 <<<
+INFO:pyftpdlib:concurrency model: async
+INFO:pyftpdlib:masquerade (NAT) address: 123.206.121.176
+INFO:pyftpdlib:passive ports: 2000->2332
+INFO:pyftpdlib:211.162.81.105:38813-[] FTP session opened (connect)
+INFO:pyftpdlib:211.162.81.105:38813-[] USER 'anonymous' failed login.
+INFO:pyftpdlib:211.162.81.105:38813-[] FTP session closed (disconnect).
+INFO:pyftpdlib:211.162.81.105:38938-[] FTP session opened (connect)
+INFO:pyftpdlib:211.162.81.105:38938-[up] USER 'up' logged in.
+INFO:pyftpdlib:211.162.81.105:38938-[up] CWD /home/upload 550 'Not enough privileges.'
+INFO:pyftpdlib:211.162.81.105:38938-[up] FTP session closed (disconnect).
+INFO:pyftpdlib:211.162.81.105:38939-[] FTP session opened (connect)
+INFO:pyftpdlib:211.162.81.105:38939-[] USER 'anonymous' failed login.
+INFO:pyftpdlib:211.162.81.105:38939-[] FTP session closed (disconnect).
+INFO:pyftpdlib:211.162.81.105:38940-[] FTP session opened (connect)
+INFO:pyftpdlib:211.162.81.105:38940-[up] USER 'up' logged in.
+INFO:pyftpdlib:211.162.81.105:38940-[up] CWD /home/upload 550 'Not enough privileges.'
+INFO:pyftpdlib:211.162.81.105:38940-[up] FTP session closed (disconnect).
+INFO:pyftpdlib:211.162.81.105:38941-[] FTP session opened (connect)
+INFO:pyftpdlib:211.162.81.105:38941-[] USER 'anonymous' failed login.
+INFO:pyftpdlib:211.162.81.105:38941-[] FTP session closed (disconnect).
+INFO:pyftpdlib:211.162.81.105:38942-[] FTP session opened (connect)
+INFO:pyftpdlib:211.162.81.105:38942-[up] USER 'up' logged in.
+INFO:pyftpdlib:211.162.81.105:38942-[up] CWD /home/upload 550 'Not enough privileges.'
+INFO:pyftpdlib:211.162.81.105:38942-[up] FTP session closed (disconnect).
+INFO:pyftpdlib:211.162.81.105:38943-[] FTP session opened (connect)
+INFO:pyftpdlib:211.162.81.105:38943-[] USER 'anonymous' failed login.
+INFO:pyftpdlib:211.162.81.105:38943-[] FTP session closed (disconnect).
+INFO:pyftpdlib:211.162.81.105:38944-[] FTP session opened (connect)
+INFO:pyftpdlib:211.162.81.105:38944-[up] USER 'up' logged in.
+INFO:pyftpdlib:211.162.81.105:38944-[up] CWD /home/upload 550 'Not enough privileges.'
+INFO:pyftpdlib:211.162.81.105:38944-[up] FTP session closed (disconnect).
+INFO:pyftpdlib:received interrupt signal
+INFO:pyftpdlib:>>> shutting down FTP server (1 active socket fds) <<<
+INFO:pyftpdlib:>>> starting FTP server on 0.0.0.0:21, pid=9869 <<<
+INFO:pyftpdlib:concurrency model: async
+INFO:pyftpdlib:masquerade (NAT) address: 123.206.121.176
+INFO:pyftpdlib:passive ports: 2000->2332
+INFO:pyftpdlib:received interrupt signal
+INFO:pyftpdlib:>>> shutting down FTP server (1 active socket fds) <<<
