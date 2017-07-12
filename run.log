@@ -1,6 +1,0 @@
-Traceback (most recent call last):
-  File "/usr/local/FTPServer/baseFtpServer.py", line 52, in <module>
-    init_user_connfig()
-  File "/usr/local/FTPServer/baseFtpServer.py", line 41, in init_user_connfig
-    f=open("baseftp.ini",'r')
-IOError: [Errno 2] No such file or directory: 'baseftp.ini'
